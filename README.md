@@ -4,12 +4,12 @@ Asteroid space shooting game made in Unity3d for Oculus Rift and Leap Motion. Th
 
 Tilt your hand over the leap motion to move the ship and fire by clenching your fist with your other hand or by pressing `spacebar`. Destroy the incoming asteroids, but don't get hit!
 
-![Gameplay screenshot](https://wb33.host.cs.st-andrews.ac.uk/AsterRift.png "Gameplay Screenshot")
+![Gameplay screenshot](AsterRift.png "Gameplay Screenshot")
 
 ## Downloads:
 
-- Oculus Rift version (macOS): [AsterRift](https://wb33.host.cs.st-andrews.ac.uk/AsterRift.zip)
-- Screen version (macOS): [AsterRiftNoRift](https://wb33.host.cs.st-andrews.ac.uk/AsterRiftNoRift.zip)
+- Oculus Rift version (macOS): [AsterRift](AsterRift.zip)
+- Screen version (macOS): [AsterRiftNoRift](AsterRiftNoRift.zip)
 
 ## License
 
